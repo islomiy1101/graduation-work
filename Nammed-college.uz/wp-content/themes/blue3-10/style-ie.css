@@ -1,0 +1,16 @@
+/* CSS Document */
+
+#right_search{
+	padding-top:0;
+	position:relative;
+	top:-2px;
+}
+
+#right_search span{
+	position:relative;
+	top:2px;
+}
+
+#gosearch{
+	top:7px;
+}
